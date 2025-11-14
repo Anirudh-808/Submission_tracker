@@ -118,19 +118,19 @@ gcc main2.c -o tracker
 *(Place your screenshots below these headings)*
 
 ### **1. Program Startup:**
-_[Add screenshot here]_
+_[![alt text](image.png)]_
 
 ### **2. Uploading a Submission:**
-_[Add screenshot here]_
+_[![alt text](image-1.png)]_
 
 ### **3. Setting Deadline:**
-_[Add screenshot here]_
+_[![alt text](image-2.png)]_
 
 ### **4. Displaying Late Submissions:**
-_[Add screenshot here]_
+_[![alt text](image-3.png)]_
 
 ### **5. Penalty Calculation (main2.c):**
-_[Add screenshot here]_
+_[![alt text](image-4.png)]_
 
 ---
 
